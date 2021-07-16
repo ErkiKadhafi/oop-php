@@ -1,11 +1,10 @@
 <?php
     //define gabisa disimpen dalam kelas
     // define("NAMA", "Michael Alexander");
-    // echo NAMA;
-
-    // echo "<br>";
-
     // const UMUR = 32;
+    
+    // echo NAMA;
+    // echo "<br>";
     // echo UMUR;
 
 
@@ -26,7 +25,7 @@
     // class Test{
     //     public $kelas = __CLASS__; //menampilkan nama kelas
     // }
-    
+
     // echo test();
     // $obj = new Test();
     // echo $obj->kelas;
